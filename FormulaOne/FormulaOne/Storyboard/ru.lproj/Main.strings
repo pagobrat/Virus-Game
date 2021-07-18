@@ -1,0 +1,66 @@
+
+/* Class = "UIButton"; normalTitle = "BLACK"; ObjectID = "1XU-H4-A7U"; */
+"1XU-H4-A7U.normalTitle" = "ЧЕРНЫЙ";
+
+/* Class = "UIButton"; normalTitle = "PINK"; ObjectID = "BXW-wx-zVf"; */
+"BXW-wx-zVf.normalTitle" = "РОЗОВЫЙ";
+
+/* Class = "UIButton"; normalTitle = "SETTINGS"; ObjectID = "EtV-FG-Xa6"; */
+"EtV-FG-Xa6.normalTitle" = "НАСТРОЙКИ";
+
+/* Class = "UILabel"; text = "RECORDS"; ObjectID = "FSN-co-VRd"; */
+"FSN-co-VRd.text" = "РЕКОРДЫ";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "HNM-fV-FSc"; */
+"HNM-fV-FSc.normalTitle" = "НАЗАД";
+
+/* Class = "UILabel"; text = "SETTINGS"; ObjectID = "IQq-sj-gp1"; */
+"IQq-sj-gp1.text" = "НАСТРОЙКИ";
+
+/* Class = "UIButton"; normalTitle = "GO TO MENU"; ObjectID = "JqI-GQ-KPY"; */
+"JqI-GQ-KPY.normalTitle" = "ДОМОЙ";
+
+/* Class = "UILabel"; text = "CHOOSE PHONE"; ObjectID = "N0x-Yx-gh2"; */
+"N0x-Yx-gh2.text" = "ВЫБРАТЬ ТЕЛЕФОН";
+
+/* Class = "UIButton"; normalTitle = "BLACK"; ObjectID = "POe-5i-avg"; */
+"POe-5i-avg.normalTitle" = "ЧЕРНЫЙ";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "QsP-eu-Lsk"; */
+"QsP-eu-Lsk.normalTitle" = "СОХРАНИТЬ";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "SVy-pS-Bcx"; */
+"SVy-pS-Bcx.normalTitle" = "НАЗАД";
+
+/* Class = "UIButton"; normalTitle = "BLUE"; ObjectID = "WeS-U7-pE5"; */
+"WeS-U7-pE5.normalTitle" = "ГОЛУБОЙ";
+
+/* Class = "UIButton"; normalTitle = "CLEAR"; ObjectID = "Xly-SR-aPx"; */
+"Xly-SR-aPx.normalTitle" = "ЧИСТИТЬ";
+
+/* Class = "UIButton"; normalTitle = "RED"; ObjectID = "ZYX-g6-Coh"; */
+"ZYX-g6-Coh.normalTitle" = "КРАСНЫЙ";
+
+/* Class = "UILabel"; text = "DO NOT CATCH THE VIRUS"; ObjectID = "a66-Xo-n9n"; */
+"a66-Xo-n9n.text" = "DO NOT CATCH THE VIRUS";
+
+/* Class = "UILabel"; text = "GAME OVER"; ObjectID = "gDO-0A-hdr"; */
+"gDO-0A-hdr.text" = "ИГРА ОКОНЧЕНА";
+
+/* Class = "UIButton"; normalTitle = "YELLOW"; ObjectID = "lty-uY-3Ng"; */
+"lty-uY-3Ng.normalTitle" = "ЖЕЛТЫЙ";
+
+/* Class = "UILabel"; text = "CHOOSE VIRUS"; ObjectID = "pmu-iv-f96"; */
+"pmu-iv-f96.text" = "ВЫБРАТЬ ВИРУС";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "s8t-pd-Jta"; */
+"s8t-pd-Jta.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "RECORDS"; ObjectID = "vzm-9C-k3C"; */
+"vzm-9C-k3C.normalTitle" = "РЕКОРДЫ";
+
+/* Class = "UIButton"; normalTitle = "RESTART"; ObjectID = "xje-sK-Web"; */
+"xje-sK-Web.normalTitle" = "ЗАНОВО";
+
+/* Class = "UIButton"; normalTitle = "GAME"; ObjectID = "yW6-9d-Pe1"; */
+"yW6-9d-Pe1.normalTitle" = "ИГРА";

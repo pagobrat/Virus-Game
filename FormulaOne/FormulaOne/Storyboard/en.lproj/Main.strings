@@ -1,0 +1,66 @@
+
+/* Class = "UIButton"; normalTitle = "BLACK"; ObjectID = "1XU-H4-A7U"; */
+"1XU-H4-A7U.normalTitle" = "BLACK";
+
+/* Class = "UIButton"; normalTitle = "PINK"; ObjectID = "BXW-wx-zVf"; */
+"BXW-wx-zVf.normalTitle" = "PINK";
+
+/* Class = "UIButton"; normalTitle = "SETTINGS"; ObjectID = "EtV-FG-Xa6"; */
+"EtV-FG-Xa6.normalTitle" = "SETTINGS";
+
+/* Class = "UILabel"; text = "RECORDS"; ObjectID = "FSN-co-VRd"; */
+"FSN-co-VRd.text" = "RECORDS";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "HNM-fV-FSc"; */
+"HNM-fV-FSc.normalTitle" = "BACK";
+
+/* Class = "UILabel"; text = "SETTINGS"; ObjectID = "IQq-sj-gp1"; */
+"IQq-sj-gp1.text" = "SETTINGS";
+
+/* Class = "UIButton"; normalTitle = "GO TO MENU"; ObjectID = "JqI-GQ-KPY"; */
+"JqI-GQ-KPY.normalTitle" = "GO TO MENU";
+
+/* Class = "UILabel"; text = "CHOOSE PHONE"; ObjectID = "N0x-Yx-gh2"; */
+"N0x-Yx-gh2.text" = "CHOOSE PHONE";
+
+/* Class = "UIButton"; normalTitle = "BLACK"; ObjectID = "POe-5i-avg"; */
+"POe-5i-avg.normalTitle" = "BLACK";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "QsP-eu-Lsk"; */
+"QsP-eu-Lsk.normalTitle" = "SAVE";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "SVy-pS-Bcx"; */
+"SVy-pS-Bcx.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "BLUE"; ObjectID = "WeS-U7-pE5"; */
+"WeS-U7-pE5.normalTitle" = "BLUE";
+
+/* Class = "UIButton"; normalTitle = "CLEAR"; ObjectID = "Xly-SR-aPx"; */
+"Xly-SR-aPx.normalTitle" = "CLEAR";
+
+/* Class = "UIButton"; normalTitle = "RED"; ObjectID = "ZYX-g6-Coh"; */
+"ZYX-g6-Coh.normalTitle" = "RED";
+
+/* Class = "UILabel"; text = "DO NOT CATCH THE VIRUS"; ObjectID = "a66-Xo-n9n"; */
+"a66-Xo-n9n.text" = "DO NOT CATCH THE VIRUS";
+
+/* Class = "UILabel"; text = "GAME OVER"; ObjectID = "gDO-0A-hdr"; */
+"gDO-0A-hdr.text" = "GAME OVER";
+
+/* Class = "UIButton"; normalTitle = "YELLOW"; ObjectID = "lty-uY-3Ng"; */
+"lty-uY-3Ng.normalTitle" = "YELLOW";
+
+/* Class = "UILabel"; text = "CHOOSE VIRUS"; ObjectID = "pmu-iv-f96"; */
+"pmu-iv-f96.text" = "CHOOSE VIRUS";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "s8t-pd-Jta"; */
+"s8t-pd-Jta.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "RECORDS"; ObjectID = "vzm-9C-k3C"; */
+"vzm-9C-k3C.normalTitle" = "RECORDS";
+
+/* Class = "UIButton"; normalTitle = "RESTART"; ObjectID = "xje-sK-Web"; */
+"xje-sK-Web.normalTitle" = "RESTART";
+
+/* Class = "UIButton"; normalTitle = "GAME"; ObjectID = "yW6-9d-Pe1"; */
+"yW6-9d-Pe1.normalTitle" = "GAME";
